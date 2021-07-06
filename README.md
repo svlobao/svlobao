@@ -6,7 +6,7 @@ I've been working as a PO for 2 years and I have some coding knowledge from coll
 
 My current goal is develop a simple language learning app, featuring flashcards for basic Japanese vocabulary and its writting systems (Hiragana and Katakana). I hope to reach a couple thousand users and improve their (possibly) first contact with the Japanese language. If that turns out a success, I will consider improving the app to help people achieve their first Japanese language proficiency certificate (JLPT N5). 
 
-If you're in the same page as me, or just want to exchange some ideas, feel free to reach me out at Instagram (@svlobao).
+If you're in the same page as me, or just want to exchange some ideas, feel free to reach me out on Instagram (@svlobao).
 
 Thanks.
 
