@@ -1,15 +1,12 @@
 Hi, 
 
-I’m Sandro, a 26-year-old Biomedical Engineer working as a Product Owner. I’m interested in Product Development and Data Science. 
+I’m Sandro, a Biomedical Engineer with Product experience. I’m interested in Product Development and Data Science. 
 
-I've been working as a PO for 2 years and I have some coding knowledge from college. Now, I aim to learn Flutter in order to develop some personal projects and get a better grasp of what is it like a typical day in a life of a software developer. I also learned some data science back in college - applied to medical data (image classificacion, ECG signal analysis etc.).
+Currently working on a product to allow people to memorize japanese "alphabets" and choose between a default or custom study plan for JLPT N5. 
 
-My current goal is to develop a simple language learning app, featuring flashcards for basic Japanese vocabulary and its writting systems (Hiragana and Katakana). I hope to reach a couple thousand users and improve their (possibly) first contact with the Japanese language. If that turns out to be a success, I will consider improving the app to help people achieve their first Japanese language proficiency certificate (JLPT N5). 
+Flutter/Dart was the chosen framework/language because of its easy learning curve, productivity and maintainability. 
 
-If you're in the same page as me, or just want to exchange some ideas, feel free to reach me out on Instagram (@svlobao).
-
-Thanks.
-
+Feel free to contact me to graba cup of cup or so. 
 
 
 
