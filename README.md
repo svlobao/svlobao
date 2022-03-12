@@ -6,7 +6,7 @@ Currently working on a product to allow people to memorize japanese "alphabets" 
 
 Flutter/Dart was the chosen framework/language because of its easy learning curve, productivity and maintainability. 
 
-Feel free to contact me to graba cup of cup or so. 
+Feel free to contact me to grab a cup of coffee or so. 
 
 
 
