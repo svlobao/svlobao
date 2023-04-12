@@ -8,7 +8,7 @@
 
 <h3>Info:</h3>
 
-I have about four years of experience in product maangement and, most recently, started to adventure in the software engineering world. I am currently working on two projects:
+I have about four years of experience in product management and, most recently, started to adventure in the software engineering world. I am currently working on two projects:
 
 1. Kanadventures, a side project that aims to help people not give up on learning the Japanese language upon the first weeks or months
 2. Help a Paw, another side project that I work as a software engineering on migrating native iOS and Android code to a single Flutter codebase.
@@ -27,7 +27,7 @@ Technologies I use to solve problems:
 [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)](https://miro.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/)
 
-
+You can contact me to be part of interesting projects! 
 
 
 
