@@ -8,10 +8,11 @@
 
 <h3>Info:</h3>
 
-I have about four years of experience in product management and, most recently, started to adventure in the software engineering world. I am currently working on two projects:
+I have about four years of experience in product management and, most recently, started to adventure in the software engineering world. I am currently working on three projects:
 
-1. Kanadventures, a side project that aims to help people not give up on learning the Japanese language upon the first weeks or months
-2. Help a Paw, another side project that I work as a software engineering on migrating native iOS and Android code to a single Flutter codebase.
+1. My Master's degree in Computer Science, where I am working with Computer Vision methods applied to healthcare
+2. Kanadventures, a side project that aims to help people not give up on learning the Japanese language upon the first weeks or months
+3. Help a Paw, another side project that I work as a software engineering on migrating native iOS and Android code to a single Flutter codebase
 
 
 Technologies I use to solve problems:
