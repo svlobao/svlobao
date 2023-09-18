@@ -8,12 +8,9 @@
 
 <h3>Info:</h3>
 
-I have about four years of experience in product management and, most recently, started to adventure in the software engineering world. I am currently working on three projects:
+I have over four years of experience in product management and, most recently, started to adventure in the software engineering world. I am primarily focusing on my computer science master's degree and I have just started to contribute to open-source projects. 
 
-1. My Master's degree in Computer Science, where I am working with Computer Vision methods applied to healthcare
-2. Kanadventures, a side project that aims to help people not give up on learning the Japanese language upon the first weeks or months
-3. Help a Paw, another side project that I work as a software engineering on migrating native iOS and Android code to a single Flutter codebase
-
+Get in touch with me if you think I could help you with simple tasks in your open-source project. 
 
 Technologies I use to solve problems:
 
@@ -24,11 +21,9 @@ Technologies I use to solve problems:
 [![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/br/xd/get-started.html)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)](https://miro.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/)
 
-You can contact me to be part of interesting projects! 
 
 
 
