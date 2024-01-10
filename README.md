@@ -15,6 +15,7 @@ Get in touch with me if you think I could help you with simple tasks in your ope
 Technologies I use to solve problems:
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
+[![C++](https://img.shields.io/badge/C%2B%2B-950000?style=for-the-badge&logo=c%2B%2B&logoColor=white)}(https://www.learncpp.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
