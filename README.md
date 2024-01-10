@@ -8,11 +8,16 @@
 
 <h3>Info:</h3>
 
-I have over four years of experience in product management and, most recently, started to adventure in the software engineering world. I am primarily focusing on my computer science master's degree and I have just started to contribute to open-source projects. 
+I have over about five years of experience in product management and, most recently, started to adventure in the software engineering world as a hobby. These are the things I am currently learning:
 
-Get in touch with me if you think I could help you with simple tasks in your open-source project. 
+* Python and C++
+* ROS2 and Linux
+* Computer Vision 
+* Robotic Kinematics
 
-Technologies I use to solve problems:
+Also, I have been looking for open-source projects in the context of robotics to contribute to. 
+
+Technologies I have used in side projects & have the interest to keep using:
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![C++](https://img.shields.io/badge/C%2B%2B-950000?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
