@@ -16,6 +16,7 @@ Technologies I use to solve problems:
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![C++](https://img.shields.io/badge/C%2B%2B-950000?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
+[![ROS](https://img.shields.io/badge/ros-00599C?style=for-the-badge&logo=ros&logoColor=white)](https://ros.org/)
 [![Linux](https://img.shields.io/badge/Ubuntu-f34d24?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
