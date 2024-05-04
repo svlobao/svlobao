@@ -8,20 +8,21 @@
 
 <h3>Info:</h3>
 
+I am an incoming student at Georgia Instute of Technology for the Fall 2024 term, Master's degree in Computer Science. Will be focusing in Machine Learning and Computing Systems.
+
 I have over about five years of experience in product management and, most recently, started to adventure in the software engineering world as a hobby. These are the things I am currently learning:
 
-* Python and C++
-* ROS2 and Linux
-* Computer Vision 
-* Robotic Kinematics
+* iOS development (Swift)
+* Python and C/C++
+* Linux
+* Computer Vision and Reinforcement Learning
+  
 
 Also, I have been looking for open-source projects in the context of robotics to contribute to. 
 
 Technologies I have used in side projects & have the interest to keep using:
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
-[![C++](https://img.shields.io/badge/C%2B%2B-950000?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
-[![ROS](https://img.shields.io/badge/ros-00599C?style=for-the-badge&logo=ros&logoColor=white)](https://ros.org/)
 [![Linux](https://img.shields.io/badge/Ubuntu-f34d24?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
