@@ -10,7 +10,7 @@
 
 I am an incoming student at Georgia Instute of Technology for the Fall 2024 term, Master's degree in Computer Science. Will be focusing in Machine Learning and Computing Systems.
 
-I have over about five years of experience in product management and, most recently, started to adventure in the software engineering world as a hobby. These are the things I am currently learning:
+I have five years of experience in product management and, most recently, started to adventure in the software engineering world as a hobby. These are the things I am currently learning:
 
 * iOS development (Swift)
 * Python and C/C++
@@ -18,9 +18,9 @@ I have over about five years of experience in product management and, most recen
 * Linux
   
 
-Also, I have been looking for open-source projects in the context of robotics to contribute to. 
+My long-term goal is to be able to build applications, kernels, etc. in the context of machine learning acceleration. I am most interested in the computer vision and computer architecture niches. 
 
-Technologies I have used in side projects & have the interest to keep using:
+Finally, these are some technologies I have used in side projects & have the interest to keep using:
 
 [![Swift](https://img.shields.io/badge/Swift-ed5634?style=for-the-badge&logo=Swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift)
 [![iOS](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=iOS&logoColor=white)](https://developer.apple.com/ios/)
