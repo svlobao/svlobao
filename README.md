@@ -22,11 +22,19 @@ Also, I have been looking for open-source projects in the context of robotics to
 
 Technologies I have used in side projects & have the interest to keep using:
 
+[![Swift](https://img.shields.io/badge/Swift-ed5634?style=for-the-badge&logo=Swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift)
+
+[![iOS](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=iOS&logoColor=white)](https://developer.apple.com/ios/)
+
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
-[![Linux](https://img.shields.io/badge/Ubuntu-f34d24?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
+
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/br/xd/get-started.html)
+
+[![Linux](https://img.shields.io/badge/Ubuntu-f34d24?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
 
 
 
