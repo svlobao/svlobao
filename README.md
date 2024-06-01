@@ -14,8 +14,8 @@ I have over about five years of experience in product management and, most recen
 
 * iOS development (Swift)
 * Python and C/C++
+* Computer Vision and Deep Learning
 * Linux
-* Computer Vision and Reinforcement Learning
   
 
 Also, I have been looking for open-source projects in the context of robotics to contribute to. 
