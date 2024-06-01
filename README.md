@@ -28,7 +28,7 @@ Finally, these are some technologies I have used in side projects & have the int
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/br/xd/get-started.html)
-[![Linux](https://img.shields.io/badge/Ubuntu-cbcbcb?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/Linux-cbcbcb?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
 
 
 
