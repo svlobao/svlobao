@@ -15,7 +15,7 @@ I have five years of experience in product management and, most recently, starte
 * iOS development (Swift)
 * Python and C/C++
 * Computer Vision and Deep Learning
-* Linux
+* Linux and Docker
   
 
 My long-term goal is to be able to build applications, kernels, etc. in the context of machine learning acceleration. I am most interested in the computer vision and computer architecture niches. 
@@ -29,6 +29,7 @@ Finally, these are some technologies I have used in side projects & have the int
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/br/xd/get-started.html)
 [![Linux](https://img.shields.io/badge/Linux-cbcbcb?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
+[![Docker](https://img.shields.io/badge/Docker-42b0f5?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 
