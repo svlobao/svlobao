@@ -8,17 +8,16 @@
 
 <h3>Info:</h3>
 
-I am an incoming student at Georgia Instute of Technology for the Fall 2024 term, Master's degree in Computer Science. Will be focusing in Machine Learning and Computing Systems.
+I am an student at Georgia Instute of Technology, at the Master's in Computer Science program. Will be focusing in Machine Learning and Computing Systems.
 
 I have five years of experience in product management and, most recently, started to adventure in the software engineering world as a hobby. These are the things I am currently learning:
 
-* iOS development (Swift)
 * Python and C/C++
 * Computer Vision and Deep Learning
 * Linux and Docker
   
 
-My long-term goal is to be able to build applications, kernels, etc. in the context of machine learning acceleration. I am most interested in the computer vision and computer architecture niches. 
+My long-term goal is to be able to build applications, kernels, etc. in the context of machine learning acceleration and robotics. I am particularly interested in the computer vision and deep learning niches. 
 
 Finally, these are some technologies I have used in side projects & have the interest to keep using:
 
