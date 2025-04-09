@@ -21,6 +21,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-ed5634?style=for-the-badge&logo=Swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift)
 [![iOS](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=iOS&logoColor=white)](https://developer.apple.com/ios/)
+[![C/C++](https://img.shields.io/badge/C/C++-6786c7?style=for-the-badge&logo=C&logoColor=ffffff)](https://ubuntu.com/)
 [![Linux](https://img.shields.io/badge/Linux-cbcbcb?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-4b72cc?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://ubuntu.com/)
 
