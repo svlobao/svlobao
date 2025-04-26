@@ -14,17 +14,18 @@
 [![Git](https://img.shields.io/badge/Git-cbcbcb?style=for-the-badge&logo=git&logoColor=black)](https://ubuntu.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![GraphQL](https://img.shields.io/badge/Graphql-7c2580?style=for-the-badge&logo=graphql&logoColor=white)](https://www.figma.com/)
+
 
 <b>Self-study</b>
-<br> I started learning iOS development because I am fond of mobile applications, and will deep-dive into learning more about system software:
+<br> I started learning more about web and system software development, due to the technical nature of the product management position I am currently in and personal interest:
 
-[![Swift](https://img.shields.io/badge/Swift-ed5634?style=for-the-badge&logo=Swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift)
-[![iOS](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=iOS&logoColor=white)](https://developer.apple.com/ios/)
+
 [![C/C++](https://img.shields.io/badge/C/C++-6786c7?style=for-the-badge&logo=C&logoColor=ffffff)](https://ubuntu.com/)
 [![Linux](https://img.shields.io/badge/Linux-cbcbcb?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-4b72cc?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://ubuntu.com/)
+[![GraphQL](https://img.shields.io/badge/Graphql-7c2580?style=for-the-badge&logo=graphql&logoColor=white)](https://www.figma.com/)
 
+Paused my Swift/iOS studies to prioritize C/C++, Linux and Django, but hopefully will get back to it in 2026. 
 
 ---
 
